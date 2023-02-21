@@ -1,4 +1,4 @@
-// import react maybe?
+import React from 'react';
 // import picture here to display them
 
 export default function Header() {
