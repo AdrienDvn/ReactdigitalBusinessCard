@@ -7,7 +7,7 @@ export default function Info() {
       <img src={logo} alt="" className="info--picture"/>
 
       <h4>Adrien DAVIN</h4>
-      <h5 className='info--job'>Front-End Developper</h5>
+      <h5 className='info--job'>Front-End Developer</h5>
       <p>adriendavin@hotmail.fr</p>
         <div className='info--buttons'>
           <button class="btn btn-gradient1">
