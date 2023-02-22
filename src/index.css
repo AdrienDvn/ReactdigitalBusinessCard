@@ -11,3 +11,16 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/* FOOTER */
+.btn {
+  /* font-size: 20px; */
+  /* width: 10px; */
+  text-align: center;
+  justify-content: center;
+  text-decoration: none;
+  background-color:#495160;
+  border-radius: 8px;
+  margin-bottom: 24px;
+  margin-left: 16px;
+}
