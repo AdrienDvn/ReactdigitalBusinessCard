@@ -18,6 +18,15 @@ p{
 }
 /*////////////////*/
 /* INFO */
+
+.info--picture {
+  width: 225px;
+  height: 225px;
+  object-fit: cover;
+  object-position: 0px -10px;
+ border-radius: 4px;
+ margin: 16px;
+}
 .info--job {
   margin-left: -22px;
   /* display: flex; */

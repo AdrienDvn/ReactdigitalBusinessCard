@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from '/Users/adrien/code/BobZiroll/digitalbusinesscard/src/logo192.png';
+import logo from '/Users/adrien/code/BobZiroll/digitalbusinesscard/src/Adri profil photo face copie.png';
 
 export default function Info() {
   return (
